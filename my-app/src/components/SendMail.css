@@ -1,0 +1,6 @@
+.auto-expand {
+    min-height: 50px; /* Set a minimum height */
+    overflow-y: hidden; /* Hide overflow */
+    resize: none; /* Disable textarea resizing */
+  }
+  
